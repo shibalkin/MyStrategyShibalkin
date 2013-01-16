@@ -1,4 +1,4 @@
-MyStategyShibalkin
+﻿MyStategyShibalkin
 ==================
 
-Код стратегии на Java
+Код стратегии на Java Шибалкин
